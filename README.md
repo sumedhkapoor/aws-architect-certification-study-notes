@@ -1,6 +1,11 @@
 # aws-architect-certification-study-notes
 AWS Architect Certification Exam Study Notes
 
+## Virtual Private Cloud (VPC)
+### Public vs Private IP address
+### Subnets
+### Security Groups - Stateful firewall
+
 ## Automating AWS Workloads
 ### Declarative Approach - Infrastructure as Code
 * CloudFormation—Lets you automate the building and configuration of your AWS resources
@@ -14,3 +19,5 @@ EC2 and on-premises instances
 * Create a stack that consists of templates.
 * Templates can be created in JSON or YAML.
 * AWS provides pre-built templates and a designer.
+
+
