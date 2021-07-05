@@ -6,6 +6,9 @@ AWS Architect Certification Exam Study Notes
 ### Subnets
 ### Security Groups - Stateful firewall
 
+## AWS Global Accelerator 
+If compute instances are running in multiple regions then AWS Global Accelerator can be used to distribute requests to the closest region.
+
 ## Database Services
 ### Aurora Relational Database
 #### Aurora is compatible with MySQL and is 5x faster.
